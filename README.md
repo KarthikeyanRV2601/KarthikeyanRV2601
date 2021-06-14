@@ -8,20 +8,6 @@
 <h2 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Web developer <span style="color: #3535353a;">|</span> UI/UX designer</h2>
 <h3 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Skills</h3>
 
-
-<h3 width="800px" height="10px" style="border: 1px solid #ffffff;">About him</h3>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Karthik designs and builds websites</h5>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He has collaborated and built several websites</h5>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Currently he is working as an intern at appscms</h5>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Minimalism? He lovs it</h5>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He really cares about your needs and opinions ;)</h5>
-
-
-<h3 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Surprise him with your message</h3>
-<a class="link" align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">karthikradha06@gmail.com</a>
-<p class="link portfolio" color="blue">
-    <a href="#">Portfolio</a>
-</p>
 <div class="skills" align="center">   
 <div class="Row Top" >
 <a href="https://reactjs.org/" class="skill">
@@ -76,3 +62,16 @@
 <img width="30px" height="30px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR"/>
 </a>
 </div>
+<h3 width="800px" height="10px" style="border: 1px solid #ffffff;">About him</h3>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Karthik designs and builds websites</h5>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He has collaborated and built several websites</h5>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Currently he is working as an intern at appscms</h5>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Minimalism? He lovs it</h5>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He really cares about your needs and opinions ;)</h5>
+
+
+<h3 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Surprise him with your message</h3>
+<a class="link" align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">karthikradha06@gmail.com</a>
+<p class="link portfolio" color="blue">
+    <a href="#">Portfolio</a>
+</p>
