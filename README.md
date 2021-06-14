@@ -66,7 +66,7 @@
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Karthik designs and builds websites</h5>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He has collaborated and built several websites</h5>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Currently he is working as an intern at appscms</h5>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Minimalism? He lovs it</h5>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Minimalism? He loves it</h5>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He really cares about your needs and opinions ;)</h5>
 
 
