@@ -11,7 +11,7 @@
 <h3 align="center" color ="#353535" width="800px" height="10px" style="border: 1px solid #ffffff;">About him</h3>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Karthik designs and builds websites</h5>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He has collaborated and built several websites</h5>
-<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Currently he is working as a web developer intern at appscms</h5>
+<h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Currently he is working as a web developer intern</h5>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Minimalism? He loves it</h5>
 <h5 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">He really cares about your needs and opinions ;)</h5>
 
