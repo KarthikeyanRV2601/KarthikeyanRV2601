@@ -4,8 +4,8 @@
 <img src="https://www.linkpicture.com/q/vikStyle.png"/>
 
 
-<h3  style="font-family: 'Open Sans', sans-serif; color: #353535;" color ="#353535">Email</h3>
-<a class="link"  style="font-family: 'Open Sans', sans-serif; color: #353535;margin-left:300px">karthikradha06@gmail.com</a>
+<h3 color ="#353535">Email</h3>
+<a class="link"  >karthikradha06@gmail.com</a>
 <p class="link portfolio" color="blue">
     <a href="https://drive.google.com/file/d/1Hz16Ue1RiB4MQ2gs73mTeSwxiRXLIiQZ/view?usp=sharing">Portfolio</a>
 </p>
