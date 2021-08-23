@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
 
 
-<p align="center" ><img width="300px" height= "300px" src="https://assets.website-files.com/5bc0e4b731521af63b4afc2c/5d7d3f14cb34e41cc49f61cd_Cody_stars.gif"/>
+<!-- <p align="center" ><img width="300px" height= "300px" src="https://assets.website-files.com/5bc0e4b731521af63b4afc2c/5d7d3f14cb34e41cc49f61cd_Cody_stars.gif"/> -->
 </p>
 
 <h2 align="center" style="font-family: 'Open Sans', sans-serif; color: #353535;">Web developer<span style="color: #3535353a;">|</span> UI/UX designer</h2>
