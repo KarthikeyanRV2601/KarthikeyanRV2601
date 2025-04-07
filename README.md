@@ -74,7 +74,7 @@
 ### 🧠 AI/ML & Data  
 <p>
   <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT-4-5/10-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT--4-5/10-black?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI API-5/10-ff69b4?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Vector DB (FAISS)-5/10-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-5/10-success?style=for-the-badge" />
