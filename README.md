@@ -94,9 +94,9 @@ A mindful productivity and planning tool to help users dream big and plan with c
 
 ## 📈 GitHub Stats
 
-![Karthikeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?KarthikeyanRV2601&show_icons=true&theme=radical)
+![Karthikeyan's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=KarthikeyanRV2601&cc=22272f&tc=37BCF6&ic=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?KarthikeyanRV2601&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=tokyonight)
 
 ---
 
