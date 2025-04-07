@@ -10,7 +10,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,react,nodejs,html,css,scss,mongodb,postgresql,firebase,git,figma,adobexd,blender&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,react,redux,nextjs,reactnative,nodejs,html,css,scss,mongodb,postgres,firebase,git,figma,xd,ai,blender,selenium,jest,jenkins,jira&theme=light" />
 </p>
 
 ---
@@ -22,8 +22,6 @@
 - 🧠 Exploring AI: GPT-4, LangChain, RAG, and custom chatbots  
 - 🎨 I design what I build — Figma, Illustrator & Blender fan  
 - 🌱 Currently upskilling on Vector Search + AI pipelines  
-- 🧑‍🏫 Mentoring interns & leading feature tracks  
-- 🥇 Finalist in Atlassian Hackathon (Top 10/2000+)
 
 ---
 
@@ -44,24 +42,12 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🔗 [**Cloud PMS – OPERA**](#) | Oracle ADF, Jet, Java, JS | Framework for the #1 global hospitality PMS |
-| 🔗 [**Policy Compliance System**](#) | Node, React, PostgreSQL | SOC2-compliant system used org-wide |
-| 🔗 [**Vortex AI**](#) | LangChain, GPT-4, FAISS | Document-trained chatbot, smart PDF querying |
-| 🔗 [**Order Mgmt System**](#) | PERN Stack | Inventory + order flow for construction biz |
-| 🔗 [**Aether**](#) | React, Styled Components | Life-mapping & mindful productivity app |
-| 🔗 [**Media Editor Suite**](#) | Vanilla JS + Web APIs | Fully client-side editor for PDFs, Audio, Video |
-
----
-
-## 🔁 Contribution Snake (Just for fun!)
-
-![snake gif](https://github.com/KarthikeyanRV2601/KarthikeyanRV2601/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🧠 Quote I Live By
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+| 🔗 [**Cloud PMS – OPERA**](https://www.oracle.com/in/hospitality/hotel-property-management/hotel-pms-software/) | Oracle ADF, Jet, Java, JS | Framework for the #1 global hospitality PMS |
+| 🔗 [**Policy Compliance System**](https://docs.google.com/document/d/1UgFN7qpVdGrDzPuNyUg97LLtxXgkvLk8vITuKfN3IxM/edit?usp=sharing) | Node, React, PostgreSQL | SOC2-compliant system used org-wide |
+| 🔗 [**Vortex AI**](https://github.com/KarthikeyanRV2601/Vortex-AI/tree/main) | LangChain, GPT-4, FAISS | Document-trained chatbot, smart PDF querying |
+| 🔗 [**Order Mgmt System**](https://contra.com/p/7g2mWsbR-order-management-system) | PERN Stack | Inventory + order flow for construction biz |
+| 🔗 [**Aether**](https://contra.com/p/NUoYZ2BM-aether) | React, Styled Components | Life-mapping & mindful productivity app |
+| 🔗 [**Media Editor Suite**] [**Video editor site**](https://contra.com/p/AEMYlRUU-safe-video-kit-secure-and-seamless-video-editing-and-sharing) [**PDF Editor**](https://contra.com/p/gBUYWE3R-safe-pdf-kit-empowering-secure-and-seamless-pdf-editing) | Vanilla JS + Web APIs | Fully client-side editor for PDFs, Audio, Video |
 
 ---
 
