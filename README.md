@@ -86,7 +86,7 @@
 | 🔗 [**Vortex AI**](https://github.com/KarthikeyanRV2601/Vortex-AI/tree/main) | LangChain, GPT-4, FAISS | Document-trained chatbot, smart PDF querying |
 | 🔗 [**Order Mgmt System**](https://contra.com/p/7g2mWsbR-order-management-system) | PERN Stack | Inventory + order flow for construction biz |
 | 🔗 [**Aether**](https://contra.com/p/NUoYZ2BM-aether) | React, Styled Components | Life-mapping & mindful productivity app |
-| 🔗 **Media Editor Suite** [**Video Editor**] (https://contra.com/p/AEMYlRUU-safe-video-kit-secure-and-seamless-video-editing-and-sharing) [**PDF Editor**](https://contra.com/p/gBUYWE3R-safe-pdf-kit-empowering-secure-and-seamless-pdf-editing) | Vanilla JS + Web APIs | Secure client-side PDF, Video & Audio editors |
+| 🔗 **Media Editor Suite** [**Video Editor**](https://contra.com/p/AEMYlRUU-safe-video-kit-secure-and-seamless-video-editing-and-sharing) [**PDF Editor**](https://contra.com/p/gBUYWE3R-safe-pdf-kit-empowering-secure-and-seamless-pdf-editing) | Vanilla JS + Web APIs | Secure client-side PDF, Video & Audio editors |
 
 ---
 
