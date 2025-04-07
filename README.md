@@ -1,108 +1,80 @@
-# 👋 Hi, I'm Karthikeyan R V
+<h1 align="center">Hi 👋, I'm Karthikeyan R V</h1>
+<h3 align="center">🚀 Software Engineer II @ Oracle | 💻 Full-Stack Dev | 🤖 AI & Automation Enthusiast</h3>
 
-🎯 **Software Engineer II @ Oracle | Full-Stack Developer | UI/UX Enthusiast | AI & Automation Explorer**
-
-📍 Hyderabad, India  
-📫 [karthikeyan.r.v.2601@gmail.com](mailto:karthikeyan.r.v.2601@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/karthikeyan-r-v-549b861b6) | [Portfolio](#)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-TypeScript, JavaScript, Java, Python, SQL, HTML/CSS/SCSS, C/C++, Solidity
-
-**Frontend Frameworks & Tools:**  
-ReactJS, PreactJS, React Native, Oracle ADF, OracleJET, Adobe XD, Figma
-
-**Backend & DevOps:**  
-NodeJS, Java (Spring), Firebase, PostgreSQL, MongoDB, Flask, CI/CD, Jenkins, JIRA, Git
-
-**Testing:**  
-Cypress, Selenium (Java)
-
-**AI/ML & Data Engineering:**  
-LangChain, GPT-4, OpenAI API, Semantic Search, RAG, FAISS, Prompt Engineering, Data Preprocessing, Asynchronous Pipelines
-
-**Creative & Others:**  
-Adobe Illustrator, Blender, Jekyll
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37BCF6&center=true&vCenter=true&width=500&lines=Engineer+by+day%2C+Creator+by+night.;Building+scalable+apps+%F0%9F%9A%80;AI%2C+Design+%26+Dev+%F0%9F%92%BB+%2B+%F0%9F%A4%96;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 Certifications
+## 🛠️ Tech Toolbox
 
-- Oracle Cloud Infrastructure 2025 AI Foundations Associate
-
----
-
-## 💼 Experience
-
-### 🔹 Oracle | Software Engineer II (IC2)
-*Sep 2024 – Present (Hyderabad, India)*  
-**Previous Role: Software Engineer I (Sep 2022 – Aug 2024)**
-
-- Key contributor to **OPERA Cloud PMS**, the world’s #1 Hotel Property Management System used by 40K+ properties
-- Built modular, reusable frontend architecture and implemented language translation for 2000+ files across 8 modules
-- Enhanced performance by 50% through efficient CI/CD, frontend optimization, and cross-browser testing
-- Leading a team of interns and coordinating closely with Product Owners and Designers
-
-### 🔹 Oracle | Project Intern
-*Feb 2022 – Aug 2022*
-
-- Gained exposure to 8 different modules in Oracle Hospitality, contributing core microfeatures to OPERA Cloud
-
-### 🔹 APPSCMS Technologies | Web Developer Intern
-*Feb 2021 – Jul 2021*
-
-- Built secure, client-side tools for editing video, audio, and PDF files without server-side dependency
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,react,nodejs,html,css,scss,mongodb,postgresql,firebase,git,figma,adobexd,blender&theme=light" />
+</p>
 
 ---
 
-## 📚 Education
+## 🌍 About Me
 
-**B.Tech in Computer Science**  
-*Amrita Vishwa Vidyapeetham, Coimbatore (2018 – 2022)*  
-- CGPA: 8.43/10  
-- Finalist, Atlassian App Dev Hackathon (Top 10 of 2000+ teams)  
-- AIR 819 in AEEE | 90% Merit Scholarship  
-
----
-
-## 🚀 Highlight Projects
-
-### 🏨 [Cloud PMS - OPERA Cloud](#)
-Modular and scalable frontend system for hotel property management. Used globally by 40K+ hotels.
-
-### 🛡️ [Policy Compliance System](#)
-Built a fully role-based, versioned, and automated policy management system used company-wide.
-
-### 🧠 [Vortex AI](#)
-A PDF-powered document chatbot built using LangChain, FAISS, and GPT-4. Admins upload documents to train the bot. *(In progress)*
-
-### 🌐 [Order Management System](#)
-Full-stack PERN-based inventory and order tracking platform for construction supply chain.
-
-### 🎬 [Online Video, Audio & PDF Editor](#)
-Client-side tools with 20+ features to edit media files, ensuring privacy and performance.  
-[Video Editor](#) | [PDF Editor](#)
-
-### 🎯 [Aether](#)
-A mindful productivity and planning tool to help users dream big and plan with clarity.  
+- 👨‍💻 Full-stack dev with a frontend focus, passionate about performance & modular design  
+- 🏨 Building at scale: OPERA Cloud PMS used by 40K+ global properties  
+- 🧠 Exploring AI: GPT-4, LangChain, RAG, and custom chatbots  
+- 🎨 I design what I build — Figma, Illustrator & Blender fan  
+- 🌱 Currently upskilling on Vector Search + AI pipelines  
+- 🧑‍🏫 Mentoring interns & leading feature tracks  
+- 🥇 Finalist in Atlassian Hackathon (Top 10/2000+)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
-![Karthikeyan's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=KarthikeyanRV2601&cc=22272f&tc=37BCF6&ic=fff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyanRV2601&show_icons=true&theme=radical" alt="stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=radical" alt="langs" height="200"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanRV2601&theme=react-dark&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
-## 🌟 Let’s Connect!
+## ✨ Projects Showcase
 
-I'm always open to exciting projects, AI tools, open source collabs, or just tech banter. Feel free to reach out or explore my work!
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🔗 [**Cloud PMS – OPERA**](#) | Oracle ADF, Jet, Java, JS | Framework for the #1 global hospitality PMS |
+| 🔗 [**Policy Compliance System**](#) | Node, React, PostgreSQL | SOC2-compliant system used org-wide |
+| 🔗 [**Vortex AI**](#) | LangChain, GPT-4, FAISS | Document-trained chatbot, smart PDF querying |
+| 🔗 [**Order Mgmt System**](#) | PERN Stack | Inventory + order flow for construction biz |
+| 🔗 [**Aether**](#) | React, Styled Components | Life-mapping & mindful productivity app |
+| 🔗 [**Media Editor Suite**](#) | Vanilla JS + Web APIs | Fully client-side editor for PDFs, Audio, Video |
 
 ---
+
+## 🔁 Contribution Snake (Just for fun!)
+
+![snake gif](https://github.com/KarthikeyanRV2601/KarthikeyanRV2601/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧠 Quote I Live By
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:karthikeyan.r.v.2601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/karthikeyan-r-v-549b861b6/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> 🌟 *Thanks for visiting! Let's build something extraordinary together.*  
+> ⭐️ *Don’t forget to star your favorite repos!*
 
