@@ -1,63 +1,47 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan R V</h1>
-<h3 align="center">🚀 Software Engineer II @ Oracle | 💻 Full-Stack Dev | 🤖 AI & Automation Enthusiast</h3>
+# Hi 👋, I'm Karthikeyan R V  
+### 🚀 Software Engineer II @ Oracle | 💻 Full-Stack Dev | 🤖 AI & Automation Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37BCF6&center=true&vCenter=true&width=500&lines=Engineer+by+day%2C+Creator+by+night.;Building+scalable+apps+%F0%9F%9A%80;AI%2C+Design+%26+Dev+%F0%9F%92%BB+%2B+%F0%9F%A4%96;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37BCF6&width=500&lines=Engineer+by+day%2C+Creator+by+night.;Building+scalable+apps+%F0%9F%9A%80;AI%2C+Design+%26+Dev+%F0%9F%92%BB+%2B+%F0%9F%A4%96;Let%E2%80%99s+build+something+amazing!)
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-### <img src="https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+### ![Badge](https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,sql,html,css,scss&theme=light" />
-</p>
+![Skill Icons](https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,sql,html,css,scss&theme=light)
 
-### <img src="https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white"/>
+### ![Badge](https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,flask&theme=light" />
-</p>
+![Skill Icons](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,flask&theme=light)
 
-### <img src="https://img.shields.io/badge/Databases & Backend-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### ![Badge](https://img.shields.io/badge/Databases & Backend-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light" />
-</p>
+![Skill Icons](https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light)
 
-### <img src="https://img.shields.io/badge/CI/CD & Testing Tools-292929?style=for-the-badge&logo=githubactions&logoColor=white"/>
+### ![Badge](https://img.shields.io/badge/CI/CD & Testing Tools-292929?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,selenium,jest,jenkins&theme=light" />
-</p>
+![Skill Icons](https://skillicons.dev/icons?i=git,selenium,jest,jenkins&theme=light)
 
-### <img src="https://img.shields.io/badge/AI / ML & Automation-FECC00?style=for-the-badge&logo=openai&logoColor=black"/>
+### ![Badge](https://img.shields.io/badge/AI / ML & Automation-FECC00?style=for-the-badge&logo=openai&logoColor=black)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-5/10-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-5/10-yellowgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS%20VectorDB-5/10-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-5/10-success?style=for-the-badge" />
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-5/10-ff69b4?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-5/10-yellowgreen?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS%20VectorDB-5/10-blueviolet?style=for-the-badge)
+![Prompt](https://img.shields.io/badge/Prompt%20Engineering-5/10-success?style=for-the-badge)
 
-### <img src="https://img.shields.io/badge/Design & Creative Tools-e34f26?style=for-the-badge&logo=adobe&logoColor=white"/>
+### ![Badge](https://img.shields.io/badge/Design & Creative Tools-e34f26?style=for-the-badge&logo=adobe&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,blender&theme=light" />
-</p>
+![Skill Icons](https://skillicons.dev/icons?i=figma,xd,ai,blender&theme=light)
 
-### <img src="https://img.shields.io/badge/Others-777BB4?style=for-the-badge&logo=oracle&logoColor=white"/>
+### ![Badge](https://img.shields.io/badge/Others-777BB4?style=for-the-badge&logo=oracle&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20ADF-lightgrey?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/OracleJet-darkred?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Cypress Automation-17202A?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" />
-</p>
+![Oracle ADF](https://img.shields.io/badge/Oracle%20ADF-lightgrey?style=for-the-badge&logo=oracle)
+![Oracle Jet](https://img.shields.io/badge/OracleJet-darkred?style=for-the-badge&logo=oracle)
+![Cypress](https://img.shields.io/badge/Cypress Automation-17202A?style=for-the-badge&logo=cypress&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
 
 ---
 
@@ -73,14 +57,9 @@
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyanRV2601&show_icons=true&theme=radical&hide_border=true" alt="stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=radical&hide_border=true" alt="langs" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanRV2601&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikeyanRV2601&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanRV2601&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -99,11 +78,9 @@
 
 ## 📫 Reach Me
 
-<p align="center">
-  <a href="mailto:karthikeyan.r.v.2601@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/karthikeyan-r-v-549b861b6/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://karthikeyan-r-v-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan.r.v.2601@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-r-v-549b861b6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://karthikeyan-r-v-portfolio.netlify.app/)
 
 ---
 
