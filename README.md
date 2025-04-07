@@ -5,6 +5,16 @@
 
 ---
 
+## 🌍 About Me
+
+- 👨‍💻 Full-stack dev with a frontend focus, passionate about performance & modular design  
+- 🏨 Building at scale: OPERA Cloud PMS used by 40K+ global properties  
+- 🧠 Exploring AI: GPT-4, LangChain, RAG, and custom chatbots  
+- 🎨 I design what I build — Figma, Illustrator & Blender fan  
+- 🌱 Currently upskilling on Vector Search + AI pipelines  
+
+---
+
 ## 🛠️ Tech Toolbox
 
 ### <img src="https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
@@ -56,16 +66,6 @@
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" />
 </p>
-
----
-
-## 🌍 About Me
-
-- 👨‍💻 Full-stack dev with a frontend focus, passionate about performance & modular design  
-- 🏨 Building at scale: OPERA Cloud PMS used by 40K+ global properties  
-- 🧠 Exploring AI: GPT-4, LangChain, RAG, and custom chatbots  
-- 🎨 I design what I build — Figma, Illustrator & Blender fan  
-- 🌱 Currently upskilling on Vector Search + AI pipelines  
 
 ---
 
