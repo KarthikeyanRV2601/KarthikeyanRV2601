@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Toolbox
 
-### 🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages  
 <img src="https://img.shields.io/badge/TypeScript-10/10-blue?style=for-the-badge&logo=typescript" />
 <img src="https://img.shields.io/badge/JavaScript-10/10-yellow?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Java-10/10-red?style=for-the-badge&logo=openjdk" />
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/SCSS-10/10-pink?style=for-the-badge&logo=sass" />
 <img src="https://img.shields.io/badge/Solidity-7/10-black?style=for-the-badge&logo=ethereum" />
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries  
 <img src="https://img.shields.io/badge/ReactJS-10/10-61dafb?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/PreactJS-10/10-blue?style=for-the-badge&logo=preact" />
 <img src="https://img.shields.io/badge/React Native-8/10-61dafb?style=for-the-badge&logo=react" />
@@ -40,25 +40,25 @@
 <img src="https://img.shields.io/badge/Flask-8/10-grey?style=for-the-badge&logo=flask" />
 <img src="https://img.shields.io/badge/Jekyll-8/10-darkred?style=for-the-badge&logo=jekyll" />
 
-### 🗃️ Databases & Backend
+### 🗃️ Databases & Backend  
 <img src="https://img.shields.io/badge/PostgreSQL-10/10-316192?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/MongoDB-8/10-47A248?style=for-the-badge&logo=mongodb" />
 <img src="https://img.shields.io/badge/Firebase-10/10-ffca28?style=for-the-badge&logo=firebase" />
 
-### 🧪 Testing & DevOps
+### 🧪 Testing & DevOps  
 <img src="https://img.shields.io/badge/Cypress-10/10-darkgreen?style=for-the-badge&logo=cypress" />
 <img src="https://img.shields.io/badge/Selenium (Java)-10/10-lightgrey?style=for-the-badge&logo=selenium" />
 <img src="https://img.shields.io/badge/Jenkins-8/10-red?style=for-the-badge&logo=jenkins" />
 <img src="https://img.shields.io/badge/Git-10/10-orange?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/JIRA-10/10-blue?style=for-the-badge&logo=jira" />
 
-### 🎨 Design Tools
+### 🎨 Design Tools  
 <img src="https://img.shields.io/badge/Figma-10/10-purple?style=for-the-badge&logo=figma" />
 <img src="https://img.shields.io/badge/Adobe XD-10/10-magenta?style=for-the-badge&logo=adobexd" />
 <img src="https://img.shields.io/badge/Adobe Illustrator-9/10-orange?style=for-the-badge&logo=adobeillustrator" />
 <img src="https://img.shields.io/badge/Blender-7/10-orange?style=for-the-badge&logo=blender" />
 
-### 🧠 AI/ML & Data
+### 🧠 AI/ML & Data  
 <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/GPT-4-5/10-black?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI API-5/10-ff69b4?style=for-the-badge&logo=openai" />
