@@ -74,14 +74,14 @@
 ### 🧠 AI/ML & Data  
 <p>
   <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT-4-5/10-black?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI API-5/10-ff69b4?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Vector DB (FAISS)-5/10-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-5/10-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Numpy-5/10-grey?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/PDF Parsing-5/10-lightgrey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Chatbot Dev-5/10-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt Engineering-5/10-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT-4-5/10-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI API-5/10-ff69b4?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Vector DB (FAISS)-5/10-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-5/10-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Numpy-5/10-grey?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/PDF Parsing-5/10-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chatbot Dev-5/10-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt Engineering-5/10-green?style=for-the-badge" />
 </p>
 
 ---
