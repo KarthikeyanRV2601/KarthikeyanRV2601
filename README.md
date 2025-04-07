@@ -9,12 +9,54 @@
 
 ## 🛠️ Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,react,redux,nextjs,nodejs,html,css,scss,mongodb,postgres,firebase,git,figma,xd,ai,blender,selenium,jest,jenkins,jira&theme=light" />
-</p>
+### <img src="https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools%20%26%20Frameworks-Oracle%20ADF%20%7C%20OracleJET%20%7C%20Cypress%20%7C%20Flask%20%7C%20LangChain%20%7C%20RAG%20%7C%20Jekyll-blueviolet?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,sql,html,css,scss&theme=light" />
+</p>
+
+### <img src="https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,flask&theme=light" />
+</p>
+
+### <img src="https://img.shields.io/badge/Databases & Backend-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light" />
+</p>
+
+### <img src="https://img.shields.io/badge/CI/CD & Testing Tools-292929?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,selenium,jest,jenkins&theme=light" />
+</p>
+
+### <img src="https://img.shields.io/badge/AI / ML & Automation-FECC00?style=for-the-badge&logo=openai&logoColor=black"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-5/10-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-5/10-yellowgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS%20VectorDB-5/10-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5/10-success?style=for-the-badge" />
+</p>
+
+### <img src="https://img.shields.io/badge/Design & Creative Tools-e34f26?style=for-the-badge&logo=adobe&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,blender&theme=light" />
+</p>
+
+### <img src="https://img.shields.io/badge/Others-777BB4?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20ADF-lightgrey?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/OracleJet-darkred?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/Cypress Automation-17202A?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" />
 </p>
 
 ---
@@ -68,4 +110,3 @@
 > 🌟 *Thanks for visiting!*  
 > 🛠️ *Let’s build something extraordinary together.*  
 > ⭐️ *Don’t forget to star your favorite repos!*
-
