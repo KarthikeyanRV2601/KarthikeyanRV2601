@@ -10,7 +10,7 @@
 ### <img src="https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,sql,html,css,scss&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,html,css,scss&theme=light" />
 </p>
 
 ### <img src="https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white"/>
