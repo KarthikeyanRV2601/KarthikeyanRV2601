@@ -10,7 +10,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,react,redux,nextjs,reactnative,nodejs,html,css,scss,mongodb,postgres,firebase,git,figma,xd,ai,blender,selenium,jest,jenkins,jira&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,react,redux,nextjs,nodejs,html,css,scss,mongodb,postgres,firebase,git,figma,xd,ai,blender,selenium,jest,jenkins,jira&theme=light" />
 </p>
 
 ---
