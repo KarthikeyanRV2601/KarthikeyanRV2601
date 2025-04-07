@@ -13,6 +13,10 @@
   <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,react,redux,nextjs,nodejs,html,css,scss,mongodb,postgres,firebase,git,figma,xd,ai,blender,selenium,jest,jenkins,jira&theme=light" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools%20%26%20Frameworks-Oracle%20ADF%20%7C%20OracleJET%20%7C%20Cypress%20%7C%20Flask%20%7C%20LangChain%20%7C%20RAG%20%7C%20Jekyll-blueviolet?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🌍 About Me
@@ -28,26 +32,26 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyanRV2601&show_icons=true&theme=radical" alt="stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=radical" alt="langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyanRV2601&show_icons=true&theme=radical&hide_border=true" alt="stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanRV2601&layout=compact&theme=radical&hide_border=true" alt="langs" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanRV2601&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanRV2601&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
 
 ## ✨ Projects Showcase
 
-| Project | Tech Stack | Description |
+| 🚀 Project | 🧰 Tech Stack | 📌 Description |
 |--------|------------|-------------|
 | 🔗 [**Cloud PMS – OPERA**](https://www.oracle.com/in/hospitality/hotel-property-management/hotel-pms-software/) | Oracle ADF, Jet, Java, JS | Framework for the #1 global hospitality PMS |
 | 🔗 [**Policy Compliance System**](https://docs.google.com/document/d/1UgFN7qpVdGrDzPuNyUg97LLtxXgkvLk8vITuKfN3IxM/edit?usp=sharing) | Node, React, PostgreSQL | SOC2-compliant system used org-wide |
 | 🔗 [**Vortex AI**](https://github.com/KarthikeyanRV2601/Vortex-AI/tree/main) | LangChain, GPT-4, FAISS | Document-trained chatbot, smart PDF querying |
 | 🔗 [**Order Mgmt System**](https://contra.com/p/7g2mWsbR-order-management-system) | PERN Stack | Inventory + order flow for construction biz |
 | 🔗 [**Aether**](https://contra.com/p/NUoYZ2BM-aether) | React, Styled Components | Life-mapping & mindful productivity app |
-| 🔗 [**Media Editor Suite**] [**Video editor site**](https://contra.com/p/AEMYlRUU-safe-video-kit-secure-and-seamless-video-editing-and-sharing) [**PDF Editor**](https://contra.com/p/gBUYWE3R-safe-pdf-kit-empowering-secure-and-seamless-pdf-editing) | Vanilla JS + Web APIs | Fully client-side editor for PDFs, Audio, Video |
+| 🔗 [**Media Editor Suite**](https://contra.com/p/AEMYlRUU-safe-video-kit-secure-and-seamless-video-editing-and-sharing) [[PDF Editor]](https://contra.com/p/gBUYWE3R-safe-pdf-kit-empowering-secure-and-seamless-pdf-editing) | Vanilla JS + Web APIs | Secure client-side PDF, Video & Audio editors |
 
 ---
 
@@ -61,6 +65,7 @@
 
 ---
 
-> 🌟 *Thanks for visiting! Let's build something extraordinary together.*  
+> 🌟 *Thanks for visiting!*  
+> 🛠️ *Let’s build something extraordinary together.*  
 > ⭐️ *Don’t forget to star your favorite repos!*
 
