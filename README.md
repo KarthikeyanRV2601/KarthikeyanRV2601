@@ -7,41 +7,55 @@
 
 ## 🛠️ Tech Toolbox
 
-### ![Badge](https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white)
+### <img src="https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
 
-![Skill Icons](https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,sql,html,css,scss&theme=light)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,sql,html,css,scss&theme=light" />
+</p>
 
-### ![Badge](https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white)
+### <img src="https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-![Skill Icons](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,flask&theme=light)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,flask&theme=light" />
+</p>
 
-### ![Badge](https://img.shields.io/badge/Databases & Backend-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### <img src="https://img.shields.io/badge/Databases & Backend-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-![Skill Icons](https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light" />
+</p>
 
-### ![Badge](https://img.shields.io/badge/CI/CD & Testing Tools-292929?style=for-the-badge&logo=githubactions&logoColor=white)
+### <img src="https://img.shields.io/badge/CI/CD & Testing Tools-292929?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-![Skill Icons](https://skillicons.dev/icons?i=git,selenium,jest,jenkins&theme=light)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,selenium,jest,jenkins&theme=light" />
+</p>
 
-### ![Badge](https://img.shields.io/badge/AI / ML & Automation-FECC00?style=for-the-badge&logo=openai&logoColor=black)
+### <img src="https://img.shields.io/badge/AI / ML & Automation-FECC00?style=for-the-badge&logo=openai&logoColor=black"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-5/10-ff69b4?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-5/10-yellowgreen?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS%20VectorDB-5/10-blueviolet?style=for-the-badge)
-![Prompt](https://img.shields.io/badge/Prompt%20Engineering-5/10-success?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-5/10-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-5/10-yellowgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS%20VectorDB-5/10-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5/10-success?style=for-the-badge" />
+</p>
 
-### ![Badge](https://img.shields.io/badge/Design & Creative Tools-e34f26?style=for-the-badge&logo=adobe&logoColor=white)
+### <img src="https://img.shields.io/badge/Design & Creative Tools-e34f26?style=for-the-badge&logo=adobe&logoColor=white"/>
 
-![Skill Icons](https://skillicons.dev/icons?i=figma,xd,ai,blender&theme=light)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,blender&theme=light" />
+</p>
 
-### ![Badge](https://img.shields.io/badge/Others-777BB4?style=for-the-badge&logo=oracle&logoColor=white)
+### <img src="https://img.shields.io/badge/Others-777BB4?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-![Oracle ADF](https://img.shields.io/badge/Oracle%20ADF-lightgrey?style=for-the-badge&logo=oracle)
-![Oracle Jet](https://img.shields.io/badge/OracleJet-darkred?style=for-the-badge&logo=oracle)
-![Cypress](https://img.shields.io/badge/Cypress Automation-17202A?style=for-the-badge&logo=cypress&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20ADF-lightgrey?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/OracleJet-darkred?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/Cypress Automation-17202A?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" />
+</p>
 
 ---
 
