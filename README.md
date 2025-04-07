@@ -17,55 +17,57 @@
 
 ## 🛠️ Tech Toolbox
 
-### <img src="https://img.shields.io/badge/Programming Languages-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+### 🧑‍💻 Programming Languages
+<img src="https://img.shields.io/badge/TypeScript-10/10-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/JavaScript-10/10-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Java-10/10-red?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Python-10/10-informational?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/C++-7/10-critical?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/C-7/10-lightgrey?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/SQL-10/10-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/HTML-10/10-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS-10/10-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/SCSS-10/10-pink?style=for-the-badge&logo=sass" />
+<img src="https://img.shields.io/badge/Solidity-7/10-black?style=for-the-badge&logo=ethereum" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp,c,html,css,scss&theme=light" />
-</p>
+### ⚙️ Frameworks & Libraries
+<img src="https://img.shields.io/badge/ReactJS-10/10-61dafb?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/PreactJS-10/10-blue?style=for-the-badge&logo=preact" />
+<img src="https://img.shields.io/badge/React Native-8/10-61dafb?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Oracle ADF-10/10-red?style=for-the-badge&logo=oracle" />
+<img src="https://img.shields.io/badge/OracleJet-10/10-orange?style=for-the-badge&logo=oracle" />
+<img src="https://img.shields.io/badge/NodeJS-10/10-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Flask-8/10-grey?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/Jekyll-8/10-darkred?style=for-the-badge&logo=jekyll" />
 
-### <img src="https://img.shields.io/badge/Frameworks & Libraries-0052cc?style=for-the-badge&logo=vercel&logoColor=white"/>
+### 🗃️ Databases & Backend
+<img src="https://img.shields.io/badge/PostgreSQL-10/10-316192?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-8/10-47A248?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Firebase-10/10-ffca28?style=for-the-badge&logo=firebase" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,flask&theme=light" />
-</p>
+### 🧪 Testing & DevOps
+<img src="https://img.shields.io/badge/Cypress-10/10-darkgreen?style=for-the-badge&logo=cypress" />
+<img src="https://img.shields.io/badge/Selenium (Java)-10/10-lightgrey?style=for-the-badge&logo=selenium" />
+<img src="https://img.shields.io/badge/Jenkins-8/10-red?style=for-the-badge&logo=jenkins" />
+<img src="https://img.shields.io/badge/Git-10/10-orange?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/JIRA-10/10-blue?style=for-the-badge&logo=jira" />
 
-### <img src="https://img.shields.io/badge/Databases & Backend-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### 🎨 Design Tools
+<img src="https://img.shields.io/badge/Figma-10/10-purple?style=for-the-badge&logo=figma" />
+<img src="https://img.shields.io/badge/Adobe XD-10/10-magenta?style=for-the-badge&logo=adobexd" />
+<img src="https://img.shields.io/badge/Adobe Illustrator-9/10-orange?style=for-the-badge&logo=adobeillustrator" />
+<img src="https://img.shields.io/badge/Blender-7/10-orange?style=for-the-badge&logo=blender" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=light" />
-</p>
-
-### <img src="https://img.shields.io/badge/CI/CD & Testing Tools-292929?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,selenium,jest,jenkins&theme=light" />
-</p>
-
-### <img src="https://img.shields.io/badge/AI / ML & Automation-FECC00?style=for-the-badge&logo=openai&logoColor=black"/>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-5/10-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-5/10-yellowgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS%20VectorDB-5/10-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-5/10-success?style=for-the-badge" />
-</p>
-
-### <img src="https://img.shields.io/badge/Design & Creative Tools-e34f26?style=for-the-badge&logo=adobe&logoColor=white"/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,blender&theme=light" />
-</p>
-
-### <img src="https://img.shields.io/badge/Others-777BB4?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20ADF-lightgrey?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/OracleJet-darkred?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Cypress Automation-17202A?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" />
-</p>
+### 🧠 AI/ML & Data
+<img src="https://img.shields.io/badge/LangChain-5/10-informational?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GPT-4-5/10-black?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI API-5/10-ff69b4?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Vector DB (FAISS)-5/10-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-5/10-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Numpy-5/10-grey?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/PDF Parsing-5/10-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chatbot Dev-5/10-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt Engineering-5/10-green?style=for-the-badge" />
 
 ---
 
