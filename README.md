@@ -11,7 +11,6 @@
 - 🏨 Building at scale: OPERA Cloud PMS used by 40K+ global properties  
 - 🧠 Exploring AI: GPT-4, LangChain, RAG, and custom chatbots  
 - 🎨 I design what I build — Figma, Illustrator & Blender fan  
-- 🌱 Currently upskilling on Vector Search + AI pipelines  
 
 ---
 
